@@ -20,7 +20,7 @@
 ### Reflection
 
    * This assignment was hard for me because I was not used to onahape this assignment helped me get used to onahpe. hard and I work with my friends and I help them also in this part of onshape I like onahspe and I enjoy onshape.
-   * 
+   *  For this assignment there was two parts and different masses the first mass was 871.72 and the second one was 2389.8.
 ____________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 ##
 
