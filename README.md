@@ -1,156 +1,24 @@
-# CircuitPython
-This repository will actually serve as an aid to help you get started with your own template.  You should copy the raw form of this readme into your own, and use this template to write your own.  If you want to draw inspiration from other classmates, feel free to check [this directory of all students!](https://github.com/chssigma/Class_Accounts).
-## Table of Contents
-* [Table of Contents](#TableOfContents)
-* [Hello_CircuitPython](#Hello_CircuitPython)
-* [CircuitPython_Servo](#CircuitPython_Servo)
-* [CircuitPython_LCD](#CircuitPython_LCD)
-* [NextAssignmentGoesHere](#NextAssignment)
----
-
-## Hello_CircuitPython
-
-### Description & Code Snippets
-Write a couple sentences here, describing this assignment, and make sure that you hit these two points:
-* What was the goal of the assignment?
-* How did you accomplish that goal?
-  How you accomplished the goal is NOT a reflection, it is you telling the reader how to do this assignment, in broad strokes.
-
-  Your description is the right place to draw the reader's attention to any important chunks of code. Here's how you make code look like code:
-
-```python
-Code goes here
-
-```
-
-**Lastly, please end this section with a link to your code or file.**  
-
-### Evidence
-Pictures / Gifs of your finished work should go here.  You need to communicate what your thing does.
-For making a GIF, I recommend [ezgif.com](https://www.ezgif.com) Remember you can insert pictures using Markdown or HTML to insert an image.
-
-![spinningMetro_Optimized](https://user-images.githubusercontent.com/54641488/192549584-18285130-2e3b-4631-8005-0792c2942f73.gif)
+## Onshape Certification Prep: The Swing Arm
 
 
-And here is how you should give image credit to someone if you use their work:
+### Assignment Description
 
-Image credit goes to [Rick A](https://www.youtube.com/watch?v=dQw4w9WgXcQ&scrlybrkr=8931d0bc)
-
-
-
-### Wiring
-Make an account with your Google ID at [tinkercad.com](https://www.tinkercad.com/learn/circuits), and use "TinkerCad Circuits to make a wiring diagram."  It's really easy!  
-Then post an image here.   [here's a quick tutorial for all markdown code, like making links](https://guides.github.com/features/mastering-markdown/)
-
-### Reflection
-Don't just tell the reader what went wrong or was challenging!  Describe how you figured it out, share the things that helped you succeed (tutorials, other people's repos, etc.), and then share what you learned from that experience.  **Your underlying goal for the reflection, is to concisely pass on the RIGHT knowledge that will help the reader recreate this assignment better or more easily.  Pass on your wisdom!**
-
-
-
-## CircuitPython_Servo
-
-### Description & Code Snippets
-Write a couple sentences here, describing this assignment, and make sure that you hit these two points:
-* What was the goal of the assignment?
-* How did you accomplish that goal?
-  How you accomplished the goal is NOT a reflection, it is you telling the reader how to do this assignment, in broad strokes.
-
-  Your description is the right place to draw the reader's attention to any important chunks of code. Here's how you make code look like code:
-
-```python
-Code goes here
-
-```
-
-**Lastly, please end this section with a link to your code or file.**  
-
-
-### Evidence
-Pictures / Gifs of your finished work should go here.  You need to communicate what your thing does.
-For making a GIF, I recommend [ezgif.com](https://www.ezgif.com) Remember you can insert pictures using Markdown or HTML to insert an image.
-
-
-
-Here is how you should give image credit to someone if you use their work:
-
-Image credit goes to [Rick A](https://www.youtube.com/watch?v=dQw4w9WgXcQ&scrlybrkr=8931d0bc)
-
-
-
-### Wiring
-[tinkercad.com](https://www.tinkercad.com/learn/circuits).  If you can't find the particular part you need, get creative, and just drop a note into the circuit diagram, explaining.
-For example, I use an Arduino Uno to represent my Circuitpython device but write a note saying which board I'm actually using.
-Then post an image here.   [Here's a quick tutorial for all markdown code, like making links](https://guides.github.com/features/mastering-markdown/)
-
-### Reflection
-Don't just tell the reader what went wrong or was challenging!  Describe how you figured it out, share the things that helped you succeed (tutorials, other people's repos, etc.), and then share what you learned from that experience.  **Your underlying goal for the reflection, is to concisely pass on the RIGHT knowledge that will help the reader recreate this assignment better or more easily.  Pass on your wisdom!**
-
-
-## CircuitPython_LCD
-
-### Description & Code Snippets
-Write a couple sentences here, describing this assignment, and make sure that you hit these two points:
-* What was the goal of the assignment?
-* How did you accomplish that goal?
-  How you accomplished the goal is NOT a reflection, it is you telling the reader how to do this assignment, in broad strokes.
-
-  Your description is the right place to draw the reader's attention to any important chunks of code. Here's how you make code look like code:
-
-```python
-Code goes here
-
-```
-
-**Lastly, please end this section with a link to your code or file.**  
-
-
-### Evidence
-Pictures / Gifs of your finished work should go here.  You need to communicate what your thing does.
-For making a GIF, I recommend [ezgif.com](https://www.ezgif.com) Remember you can insert pictures using Markdown or HTML to insert an image.
-
-
-And here is how you should give image credit to someone if you use their work:
-
-Image credit goes to [Rick A](https://www.youtube.com/watch?v=dQw4w9WgXcQ&scrlybrkr=8931d0bc)
-
-
-
-### Wiring
-[tinkercad.com](https://www.tinkercad.com/learn/circuits).  If you can't find the particular part you need, get creative, and just drop a note into the circuit diagram, explaining.
-For example, I use an Arduino Uno to represent my Circuitpython device but write a note saying which board I'm actually using.
-Then post an image here.   [Here's a quick tutorial for all markdown code, like making links](https://guides.github.com/features/mastering-markdown/)
-
-
-### Reflection
-Don't just tell the reader what went wrong or was challenging!  Describe how you figured it out, share the things that helped you succeed (tutorials, other people's repos, etc.), and then share what you learned from that experience.  **Your underlying goal for the reflection, is to concisely pass on the RIGHT knowledge that will help the reader recreate this assignment better or more easily.  Pass on your wisdom!**
-
-
-
-
-
-## NextAssignment
-
-### Description & Code Snippets
-Write a couple sentences here, describing this assignment, and make sure that you hit these two points:
-* What was the goal of the assignment?
-* How did you accomplish that goal?
-  How you accomplished the goal is NOT a reflection, it is you telling the reader how to do this assignment, in broad strokes.
-
-  Your description is the right place to draw the reader's attention to any important chunks of code. Here's how you make code look like code:
-
-```python
-Code goes here
-
-```
-
-**Lastly, please end this section with a link to your code or file.**  
+  * One of the goals of this class is to get you ready to earn your Certified Onshape Associate certification. This is a timed test that requires mastery of many different CAD concepts. As Engineering 3 or 4 students you have worked extensively with CAD, but you may have a different level of mastery from your fellow students. This assignment will help you determine what additional concepts you need to focus on for the certification exam. 
 
 ### Evidence
 
-### Wiring
-[tinkercad.com](https://www.tinkercad.com/learn/circuits).  If you can't find the particular part you need, get creative, and just drop a note into the circuit diagram, explaining.
-For example, I use an Arduino Uno to represent my Circuitpython device but write a note saying which board I'm actually using.
-Then post an image here.   [Here's a quick tutorial for all markdown code, like making links](https://guides.github.com/features/mastering-markdown/)
-### Reflection
-Don't just tell the reader what went wrong or was challenging!  Describe how you figured it out, share the things that helped you succeed (tutorials, other people's repos, etc.), and then share what you learned from that experience.  **Your underlying goal for the reflection, is to concisely pass on the RIGHT knowledge that will help the reader recreate this assignment better or more easily.  Pass on your wisdom!**
+  * ![image](https://github.com/akondo58/engineering3/assets/143534857/8627ce73-d363-47c3-b23a-76396fb86855)
 
+  * ![image](https://github.com/akondo58/engineering3/assets/143534857/eae74bd6-faba-48f0-b967-1e200b71a984)
+
+
+### Part Link 
+
+   * https://cvilleschools.onshape.com/documents/2ea21ed135423ced48656dc8/w/1e3e233dd8ee1e752dd00b34/e/b0d8931afd4d8e73498070d7?renderMode=0&uiState=6537dee2a500002c13dae79f
+
+
+### Reflection
+
+   * This was hard for me because I was not used to onahape this assignment helped me get used to onahpe. hard and I work with my friends and I help them also in this part of onshape I like onahspe and I enjoy onshape.
+
+________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
