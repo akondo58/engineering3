@@ -62,5 +62,36 @@ For your submission, if you have an LCD working, you can just take a video of yo
 
 ### Reflection
 
+_______________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 
+##  Practice design from onshape : alignment plate
+
+
+### Assignment Description
+
+The Onshape CAD Challenges are a great way to practice for the Onshape Certification Exam. These challenges record the time you spent designing your Onshape document and allow you to compare your results with the average amount of time spent. It also checks your work automatically when you record the mass of a part. 
+
+
+ 
+### Evidence
+![image](https://github.com/akondo58/engineering3/assets/143534857/8498342a-3126-4cfa-8340-6c7e3c363cfb)
+
+![image](https://github.com/akondo58/engineering3/assets/143534857/854dc662-2da8-476a-9034-6e94192d540a)
+
+![image](https://github.com/akondo58/engineering3/assets/143534857/9b1793da-7d45-444a-a251-56ab4c181088)
+
+
+### Part Link 
+https://cvilleschools.onshape.com/documents/9f62f95744bfe458ad7f1b1a/w/68d88d859b5e8417f3b312d4/e/64ad56451042499a39d9fe26?renderMode=0&uiState=654d0ae5fce6cc5c6a9d0efd
+
+
+
+### Reflection
+ this assignment helped me learn more about how to use new tools on Onshape, it was a little bit hard but with the help of my friends 
+ I did it 
+
+
+
+
+______________________________________________________________________________________________________________________________________________________________________________________________________
