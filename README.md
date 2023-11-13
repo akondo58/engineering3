@@ -65,7 +65,7 @@ For your submission, if you have an LCD working, you can just take a video of yo
 _______________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 
-##  Practice design from onshape : alignment plate
+##  Practice design from on shape : alignment plate
 
 
 ### Assignment Description
@@ -94,4 +94,28 @@ https://cvilleschools.onshape.com/documents/9f62f95744bfe458ad7f1b1a/w/68d88d859
 
 
 
-______________________________________________________________________________________________________________________________________________________________________________________________________
+_____________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+## CircuitPython Distance Sensor
+
+
+Description & Code Snippets
+I've broken the assignment into 3 stages, to make your life easier:
+
+Use the HC-SR04 to measure the distance to an object and print that out to your serial monitor or LCD in cm. Next, you will get the neopixel to turn red when your object is less than 5cm, and green when its 35cm. Ignore the blue and 20cm for now, let's just keep it simple. For your final version of this code, you'll smoothly shift the color of the onboard neopixel, corresponding to the distance, according to the graphic below. (Neopixel should stay red when below 5cm and green when above 35cm)
+
+if  btn2.value:
+    print("BTN2 is pressed")
+   
+
+time.sleep(0.1) # sleep for debounce
+
+### Evidence
+https://www.wevideo.com/class#view-media/3196343174/
+https://www.wevideo.com/class#view-media/3196343047/
+### Wiring 
+https://github-production-user-asset-6210df.s3.amazonaws.com/143534921/278457848-acd57cc8-bf1e-4a5a-a203-7e3ad7ad3b11.png
+### Reflection
+
+In this assignment, I had little trouble with the coding pats but i finally did   and more wiring and the goal was that it should show us the Distance and help us to get used to coding.
+
+
