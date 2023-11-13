@@ -113,7 +113,9 @@ time.sleep(0.1) # sleep for debounce
 https://www.wevideo.com/class#view-media/3196343174/
 https://www.wevideo.com/class#view-media/3196343047/
 ### Wiring 
-https://github-production-user-asset-6210df.s3.amazonaws.com/143534921/278457848-acd57cc8-bf1e-4a5a-a203-7e3ad7ad3b11.png
+
+![image](https://github.com/akondo58/engineering3/assets/143534857/ee51969e-aec7-4b7e-960a-b977bfccb24a)
+
 ### Reflection
 
 In this assignment, I had little trouble with the coding pats but i finally did   and more wiring and the goal was that it should show us the Distance and help us to get used to coding.
