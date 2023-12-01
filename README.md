@@ -119,5 +119,32 @@ https://www.wevideo.com/class#view-media/3196343047/
 ### Reflection
 
 In this assignment, I had little trouble with the coding pats but i finally did   and more wiring and the goal was that it should show us the Distance and help us to get used to coding.
+___________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+
+##  Practice design from on shape :  awssemblies 
+
+### Assignment Description
+OPEN THIS DOCUMENT: CLICK HERELinks to an external site.
+
+Follow the instructions for each question. Refer to the Certified Onshape Associate Practice Exam if needed.Download Refer to the Certified Onshape Associate Practice Exam if needed.
+
+Record the answer from the following options detailed in the instructions.
+
+Enter the answer into this quiz. 
+ 
+
+
+ 
+### Evidence
+![image](https://github.com/akondo58/engineering3/assets/143534857/d0d3d56c-c472-4848-b1c6-43a34b0d056e)
+![image](https://github.com/akondo58/engineering3/assets/143534857/70211aba-52be-422a-8386-d3edb8b6e123)
+![image](https://github.com/akondo58/engineering3/assets/143534857/986087c0-c1bd-4a4f-a9c8-0d6c5d0a8348)
+
+### Part Link 
+https://cvilleschools.onshape.com/documents/c675ac33775d3baadcc0c393/w/e894dcc51aaebf0248026b76/e/c15df9e3f003d8d8d843e381?renderMode=0&uiState=656a0a8127b95c4624082e2b
+
+### Reflection
+ this assignment helped me learn more about how to use new tools on Onshape, it was not that hard because it was just assemblies stuff
 
 
