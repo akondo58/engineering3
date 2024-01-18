@@ -55,12 +55,15 @@ For your submission, if you have an LCD working, you can just take a video of yo
 
 
 ### Evidence
-
+https://img_5041.1.mov/
 
 ### Wiring  
+![image](https://github.com/akondo58/engineering3/assets/143534857/ece292ad-aa70-4726-95e3-51644d6385d6)
 
 
 ### Reflection
+
+This assignment is not easy and not hard because when I start this assignment it take me a lot of time because of coding so the thing was that my coding was right but the Photo-interrupters was not working and I pet so many different coding but the thing was that my coding was not working I ask for help from teacher and the teacher tell me that my Photo Interrupters was not working.
 
 _______________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
