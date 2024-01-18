@@ -53,6 +53,34 @@ The program outputs the sentence every 4 seconds.
 Don't use sleep(), use time.monotonic()Links to an external site. .
 For your submission, if you have an LCD working, you can just take a video of you interrupting and then show the LCD.  Otherwise, you'll need to take a screenshot as well and upload that to your github repo.
 
+  * from digitalio import DigitalInOut, Direction, Pull
+import time
+import board
+
+interrupter = DigitalInOut(board.D7)
+interrupter.direction = Direction.INPUT
+interrupter.pull = Pull.UP
+
+counter = 0
+
+photo = False
+state = False
+
+max = 1
+start = time.time()
+
+while True:
+    photo = interrupter.value
+    if photo and not state:
+            counter += 1
+    state = photo
+
+    remaining = max - time.time()
+
+    if remaining <= 0:
+        print("Interrupts:", str(counter))
+        max = time.time() + 1
+        counter = 0
 
 ### Evidence
 https://img_5041.1.mov/
@@ -149,5 +177,38 @@ https://cvilleschools.onshape.com/documents/c675ac33775d3baadcc0c393/w/e894dcc51
 
 ### Reflection
  this assignment helped me learn more about how to use new tools on Onshape, it was not that hard because it was just assemblies stuff
+_________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+Motor control
+
+The goal of the assignment was to control motor with the speeding button.
+I accomplish to my goal by using goal and ask firend for help and using my idea also I take a step by step top accomplish to my goial.
+motors can draw a lot more juice (current) than LEDs. In fact, they draw so much current, we don't want to power them directly from the Arduino. That might fry the Arduino. So, we will power our motor directly from a 6 V battery pack.
+    import time
+    import board
+    import pwmio
+    from analogio import AnalogIn
+    from digitalio import DigitalInOut, Direction, Pull
+
+    motor = pwmio.PWMOut(board.D9, frequency=50)
 
 
+
+
+   pot = AnalogIn(board.A1)
+
+
+
+while True:
+     print(pot.value)
+     time.sleep(0.1)
+     motor.duty_cycle=pot.value
+Evidence
+![image](https://github.com/akondo58/engineering3/assets/143534857/c8c76870-2724-4188-93a5-2c067ee8569b)
+
+Wiring
+![image](https://github.com/akondo58/engineering3/assets/143534857/cffd2dce-eb5d-45eb-b23d-85809a861764)
+
+Reflection
+It is very helpful to use something like a Motor because it can go forward and backward when I was using the Motor it was fun for me because it is going forward and backward but it is more when you are using the Motor on your projects. whenever I have projects I use motor control or TT motor. However, the motor control is something to use in your project. It was a little hard to find the wiring but the code was easy to find for motor control it was a very short code for motor control.
+
+___________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________     
