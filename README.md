@@ -256,5 +256,5 @@ while True:
 
 
     ###   Wiring
-    ![image](https://github.com/akondo58/engineering3/assets/143534857/a9703edf-0587-4669-b508-2c23f87a4a17)
 
+![image](https://github.com/akondo58/engineering3/assets/143534857/84e131c7-5fb8-415e-8eb4-56171995cb78)
