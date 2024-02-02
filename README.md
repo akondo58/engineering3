@@ -213,3 +213,48 @@ It is very helpful to use something like a Motor because it can go forward and b
 
 ___________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________     
  
+photointeruptor
+
+Description & Code Snippets
+The goal of the assignment was to use the Photointerrupters.
+I accomplish to my goal by using my ideas and ask firend for help and using my friend idea also I take a step by step top accomplish to my goial.
+Photointerrupters Wire up a circuit that will turn on when something is in between the legs of the photointerrupter.
+
+
+  * from digitalio import DigitalInOut, Direction, Pull
+import time
+import board
+
+interrupter = DigitalInOut(board.D7)
+interrupter.direction = Direction.INPUT
+interrupter.pull = Pull.UP
+
+counter = 0
+
+photo = False
+state = False
+
+max = 1
+start = time.time()
+
+while True:
+    photo = interrupter.value
+    if photo and not state:
+            counter += 1
+    state = photo
+
+    remaining = max - time.time()
+
+    if remaining <= 0:
+        print("Interrupts:", str(counter))
+        max = time.time() + 1
+        counter = 0
+
+
+   ### Evidence
+        IMG_5041.1.mov 
+
+
+    ###   Wiring
+    ![image](https://github.com/akondo58/engineering3/assets/143534857/a9703edf-0587-4669-b508-2c23f87a4a17)
+
